@@ -54,3 +54,23 @@ div p, div a {}
 	border-bottom: 12px solid yellow;
 	font-size: 40px;
 }
+
+img {
+	height: 450x;
+	width: 450px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	height: 450px;
+	width: 450px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-color: #B2EBF2;
+}
