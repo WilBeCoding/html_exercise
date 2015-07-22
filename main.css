@@ -26,3 +26,31 @@ div p {
 
 /* Target all p's and a's inside of divs */
 div p, div a {}
+
+
+.swag {
+	color: green;
+	text-align: center;
+	text-indent: 15px;
+	border-top: 7px solid orange;
+	border-bottom: 7px solid yellow;
+
+}
+
+.bang {
+	color: green;
+	text-align: center;
+	text-indent: 15px;
+	border-top: 7px solid orange;
+	border-bottom: 7px solid yellow;
+
+}
+
+.beat {
+	color: red;
+	text-align: center;
+	text-indent: 20px;
+	border-top: 10px solid orange;
+	border-bottom: 12px solid yellow;
+	font-size: 40px;
+}
